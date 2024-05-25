@@ -1,4 +1,3 @@
-
 let valueSearch = document.getElementById('valueSearch');
 let city = document.getElementById('city');
 let temperature = document.getElementById('temperature');
