@@ -18,7 +18,7 @@ function search(e){
 
 
 let id='cfde0efd265281d61423dc3e6d37f3fa';  //place your Api Key here and everything is fine
-let url= 'http://api.openweathermap.org/data/2.5/forecast?id=524901&appid='+id;
+let url= 'https://api.openweathermap.org/data/2.5/forecast?id=524901&appid='+id;
 
 
 const searchWeather= () =>{
